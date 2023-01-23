@@ -1,0 +1,23 @@
+{
+  "name": "landing-page-footsoccer-academy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "utilities.js",
+  "scripts": {
+    "dev": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leonardorimes/foot-soccer-landingPage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leonardorimes/foot-soccer-landingPage/issues"
+  },
+  "homepage": "https://github.com/leonardorimes/foot-soccer-landingPage#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
