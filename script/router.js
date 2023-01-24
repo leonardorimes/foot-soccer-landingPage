@@ -20,7 +20,6 @@ export class Router{
         fetch(route)
         .then(data => data.text())
         .then(html => {
-            console.log(html)
             document.querySelector(".home").innerHTML = html
         })
     }
