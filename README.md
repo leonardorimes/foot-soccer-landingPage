@@ -1,4 +1,3 @@
-# foot-soccer-landingPage
 # ⚽ Escolinha de Futebol - Landing Page
 
 ![image](https://github.com/leonardorimes/foot-soccer-landingPage/assets/67798915/dfcd2c2d-c254-4090-ab76-3e3018cdbc4e)
@@ -29,5 +28,5 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou env
 
 ## Autor
 
-Leonardoo Rimes - [Email](rimesleo@gmail.com)
+Leonardo Rimes - [Email](rimesleo@gmail.com)
 
